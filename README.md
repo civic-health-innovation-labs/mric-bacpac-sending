@@ -6,7 +6,7 @@ Simple PowerShell scripts that send the latest bacpac file to the Azure Storage 
 
 ## Prerequisites
 You need to have:
- - Install **AzCopy** [https://learn.microsoft.com/en-us/azure/storage/common/storage-ref-azcopy](see the Microsoft AzCopy website here).
+ - Install **AzCopy** [see the Microsoft AzCopy website here](https://learn.microsoft.com/en-us/azure/storage/common/storage-ref-azcopy).
  - **Path** to the landing folder for `bacpac` files.
  - **Blob SAS URL** with permissions Write, Add, Immutable storage (can be generated through Azure Portal).
 
